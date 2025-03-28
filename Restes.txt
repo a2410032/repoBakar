@@ -1,0 +1,21 @@
+Realitza les següents sumes.
+
+suma1:
+
+	1-1 = ?
+
+suma2:
+
+	5-1 = ?
+
+suma3:
+	
+	250-324 = ?
+
+suma4:
+
+	250989898-3244785 = ?
+
+suma5:
+
+	0-6985 = ?
